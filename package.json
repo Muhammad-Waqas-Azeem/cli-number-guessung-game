@@ -1,5 +1,5 @@
 {
-  "name": "mwr-tc64-cli-number-guessung-game",
+  "name": "mwr-tc64-cli-number-guessing-game",
   "version": "1.0.0",
   "description": "A Simple Command Line base number guessing game",
   "main": "index.js",
