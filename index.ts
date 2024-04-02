@@ -1,7 +1,6 @@
 #! /usr/bin/env node
 import inquirer from "inquirer";
 const randomNumber:number=Math.round(Math.random()*10);
-console.log(randomNumber);
 let userNumber;
 do{
      userNumber=await inquirer.prompt([{message:"Enter Your Guess B/W 1-100",type:"number",name:"userNum"}]); 
